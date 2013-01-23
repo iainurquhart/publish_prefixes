@@ -2,7 +2,7 @@
 
 ### Overview
 
-Publish Prefixes lets you tame large/unweildy publish and edit menus by grouping channels by using prefixes.
+Publish Prefixes lets you tame large/unweildy publish and edit menus by grouping channels by using prefixes in your channel names.
 
 ![Field Output](http://f.cl.ly/items/1Y1j10343w3W0s2b183f/Image%202013.01.23%209:49:03%20PM.png) 
 

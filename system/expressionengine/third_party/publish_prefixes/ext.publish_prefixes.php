@@ -84,6 +84,11 @@ class Publish_prefixes_ext {
 	 */
 	public function cp_menu_array($menu)
 	{
+		// play nice with anyone elses extensions here.
+		if ($this->EE->extensions->last_call !== FALSE)
+		{
+			$menu = $this->EE->extensions->last_call;
+		}
 		$this->_extract_prefixes($menu, 'publish');
 		$this->_extract_prefixes($menu, 'edit');
 		return $menu; 

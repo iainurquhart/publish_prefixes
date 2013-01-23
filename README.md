@@ -28,5 +28,5 @@ Simple.
 
 * * *
 
-Copyright (c) 2012 Iain Urquhart
+Copyright (c) 2013 Iain Urquhart
 http://iain.co.nz
